@@ -11,47 +11,73 @@ Uh oh, but little does he know that
 His daughters, Peggy, Angelica, Eliza
 Sneak into the city just to watch all the guys at
 
-COMPANY: Work, work
-ANGELICA: Angelica!
-COMPANY: Work, work
-ELIZA: Eliza!
-PEGGY: And Peggy!
-COMPANY: Work, work
+COMPANY: 
+Work, work
+ANGELICA: 
+Angelica!
+COMPANY: 
+Work, work
+ELIZA: 
+Eliza!
+PEGGY: 
+And Peggy!
+COMPANY: 
+Work, work
 The Schuyler sisters
 
-ANGELICA: Angelica!
-PEGGY: Peggy!
-ELIZA: Eliza!
-COMPANY: Work!
+ANGELICA: 
+Angelica!
+PEGGY: 
+Peggy!
+ELIZA: 
+Eliza!
+COMPANY: 
+Work!
 
-PEGGY: Daddy said to be home by sundown
-ANGELICA: Daddy doesn’t need to know
-PEGGY: Daddy said not to go downtown
-ANGELICA: Like I said, you’re free to go
+PEGGY: 
+Daddy said to be home by sundown
+ANGELICA: 
+Daddy doesn’t need to know
+PEGGY: 
+Daddy said not to go downtown
+ANGELICA: 
+Like I said, you’re free to go
 
 But—look around, look around
 The revolution’s happening in New York
-ELIZA & PEGGY: New York
-COMPANY: Angelica
-SISTERS & COMPANY: Work!
+ELIZA & PEGGY: 
+New York
+COMPANY: 
+Angelica
+SISTERS & COMPANY: 
+Work!
 
-PEGGY: It’s bad enough Daddy wants to go to war
-ELIZA: People shouting in the square
-PEGGY: It’s bad enough there’ll be violence on our shore
-ANGELICA: New ideas in the air
+PEGGY: 
+It’s bad enough Daddy wants to go to war
+ELIZA: 
+People shouting in the square
+PEGGY: 
+It’s bad enough there’ll be violence on our shore
+ANGELICA: 
+New ideas in the air
 
-ANGELICA & MALE ENSEMBLE: Look around, look around—
+ANGELICA & MALE ENSEMBLE: 
+Look around, look around—
 
-ELIZA: Angelica, remind me what we’re looking for
+ELIZA: 
+Angelica, remind me what we’re looking for
 
-ALL MEN: She’s looking for me!
+ALL MEN: 
+She’s looking for me!
 
 ANGELICA and (COMPANY):
 Eliza, I’m looking for a mind at work (work, work)
 I’m looking for a mind at work (work, work) [x2]
 Woa-oah
-SISTERS: Woa-oah
-SISTERS & COMPANY: Work!
+SISTERS: 
+Woa-oah
+SISTERS & COMPANY: 
+Work!
 
 BURR:
 Ooh, there’s nothing like summer in the city
@@ -61,7 +87,8 @@ But your perfume smells like your daddy’s got money
 Why you slummin’ in the city in your fancy heels?
 You searchin’ for an urchin who can give you ideals?
 
-ANGELICA: Burr, you disgust me
+ANGELICA: 
+Burr, you disgust me
 
 BURR:
 Ahh, so you’ve discussed me
@@ -93,7 +120,8 @@ ALL SISTERS:
 History is happening in Manhattan and we
 Just happen to be in the greatest city in the world
 
-SISTERS & COMPANY: In the greatest city in the world!
+SISTERS & COMPANY: 
+In the greatest city in the world!
 
 ANGELICA (ELIZA, PEGGY) ((MEN)):
 Cause I’ve been reading Common Sense by Thomas Paine
@@ -116,17 +144,27 @@ Look around, look around
 At how lucky we are to be alive right now
 History is happening in Manhattan
 And we just happen to be
-WOMEN (MEN): In the greatest city in the world (in the greatest city)
-COMPANY: In the greatest city in the world!
+WOMEN (MEN): 
+In the greatest city in the world (in the greatest city)
+COMPANY: 
+In the greatest city in the world!
 
-COMPANY: Work, work
-ANGELICA: Angelica!
-COMPANY: Work, work
-ELIZA: Eliza!
-PEGGY: And Peggy!
-COMPANY: Work, work
-ALL SISTERS: The Schuyler sisters
-COMPANY: Work, work
+COMPANY: 
+Work, work
+ANGELICA: 
+Angelica!
+COMPANY: 
+Work, work
+ELIZA: 
+Eliza!
+PEGGY: 
+And Peggy!
+COMPANY: 
+Work, work
+ALL SISTERS: 
+The Schuyler sisters
+COMPANY: 
+Work, work
 
 ALL SISTERS (COMPANY):
 We’re looking for a mind at work (work, work)
@@ -141,4 +179,5 @@ ALL SISTERS:
 In the greatest city
 In the world!
 
-COMPANY: In the greatest city in the world!
+COMPANY:
+In the greatest city in the world!
