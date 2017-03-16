@@ -1,5 +1,5 @@
 
-#### random hamilton twitter bot ####
+#### Prep data for random hamilton twitter bot ####
 
 rm(list=ls())
 
@@ -12,7 +12,17 @@ library(plyr)
 
 #-------------------------------------------------------------------------------------------#
 
-#### define function to do everything: data cleaning and storing for 1 song####
+#--------------------------#
+#### Part 1: clean data ####
+#--------------------------#
+
+
+## Basically, I want one df with the line of the lyric, who sang the lyric, track title, and track number
+## Also, I want sepereate dfs for each character and the lyrics they sang
+
+
+
+#### Part 1a: function to clean 1 song: txt -> df with lyric, singers, track title, track number ####
 
 hamilton_song_clean = function(song, track_no)
 {
@@ -26,7 +36,7 @@ hamilton_song_clean = function(song, track_no)
   #remove leading trailing spaces
   song = str_trim(song)
   
-  
+  # inits
   d=1
   singer = list()
   lines_sang = list()
@@ -101,20 +111,20 @@ return(df)
 } #end function
 
 
-test = hamilton_song_clean(song1, 1)
-
 
 #-------------------------------------------------------------------------------------------#
 
-#### Loop through all songs, and make one giant df ####
+#### Part 1b: Loop function through all songs, and make one giant df with every song ####
 
 df_all = list()
 
-setwd("lyrics/")
+setwd("C:/Users/oliver/Google Drive/fun/random_hamilton_twitter/lyrics/")
 
 # get number of songs
 num_songs = list.files() %>% length()
 
+
+# loop through songs
 for(i in 1:num_songs){
   song_temp = NULL
   song_temp = read_file(list.files()[i])
@@ -122,16 +132,18 @@ for(i in 1:num_songs){
   df_all[[i]] = hamilton_song_clean(song_temp, i)
 }
 
+# combine songs, remove blank lines
 final_df = rbind.fill(df_all)
 final_df = subset(final_df, lyric != "")
 
 
 #-------------------------------------------------------------------------------------------#
 
-#### Standardize Singer names #### oh boy...
+#### Part 1c: Standardize Singer names #### 
 
 # it's ok if has multiple, just needs to be uniform throughout
 
+# Here is what I settled on:
 # Hamilton
 # Eliza
 # Angelica
@@ -153,12 +165,11 @@ final_df = subset(final_df, lyric != "")
 # George Eaker
 # Ensemble
 
-
-### continue to data clean here. see if replacing company with ensemble makes sense.
+### Start data cleaning ###
 
 final_df$lower_singer = final_df$singer %>% tolower()
 
-### replace
+### get standardized character names
 final_df$lower_singer_replace = 
 final_df$lower_singer %>%
   str_replace_all("aaron burr", "burr") %>%
@@ -174,6 +185,8 @@ final_df$lower_singer %>%
   str_replace("james$", "james reynolds") %>%
   str_replace("^george", "george eaker") %>%
   str_replace("lee", "charles lee") %>%
+  # replace all company with ensemble, need to explain this somewhere.
+  # basically if there were too many people to distinguish who said what, i considered it ensemble
   str_replace_all(paste("company","company-women","company-men","ensemble-men",
                     "full company","men-ensemble", "women-ensemble", "ensemble-women",
                     "ensemble women","ensemble-man", "full ensemble", "ensemble men", 
@@ -208,7 +221,7 @@ final_df$singer_clean = final_df$lower_singer_replace %>% stri_trans_general(id 
 
 
 
-### subset
+### subset wanted columns
 all_df = final_df[  , c(1,7,3,4)]
 
 ## save
@@ -218,7 +231,7 @@ saveRDS(hamilton_df, "C:/Users/oliver/Google Drive/fun/random_hamilton_twitter//
 
 #-------------------------------------------------------------------------------------------------------#
 
-#### next create df for each character to do individual analysis ####
+#### Part 1d: create df for each character to do individual analysis ####
 
 # want: lyric, indiv singer, all singers, track, track no
 
@@ -235,7 +248,7 @@ all_df$singer_clean %>%
 singers_unique = singers_unique[ -14]
 
 
-#### look through each, save in list ##
+### look through each, save in list ##
 
 singers_df = list()
 
@@ -254,7 +267,7 @@ for(i in 1:length(singers_unique)){
 }
 
 
-test = singers_df[[5]] %>% rbind.fill()
+# test = singers_df[[5]] %>% rbind.fill()
 
 
 
