@@ -24,7 +24,7 @@ I'm willing to wait for it.
 
 My grandfather was a fire of brimstone preacher,
 
-MEN:
+ENSEMBLE-MEN:
 Preacher
 Preacher
 Preacher
@@ -32,7 +32,7 @@ Preacher
 BURR:
 But there are things that the homilies and hymns won't teach ya.
 
-MEN:
+ENSEMBLE-MEN:
 Teach ya
 Teach ya
 Teach ya
@@ -40,13 +40,13 @@ Teach ya
 BURR:
 My mother was a genius
 
-WOMEN:
+ENSEMBLE-WOMEN:
 Genius
 
 BURR:
 My father commanded respect.
 
-MEN:
+ENSEMBLE-MEN:
 Respect
 Respect
 
@@ -183,35 +183,35 @@ then I'm willing' to-
 BURR:
 Wait for it...
 
-WOMEN:
+ENSEMBLE-WOMEN:
 Wait for it...
 
-MEN:
+ENSEMBLE-MEN:
 Wait for it...
 
 BURR:
 Wait for it...
 
-WOMEN:
+ENSEMBLE-WOMEN:
 Wait for it...
 
-MEN:
+ENSEMBLE-MEN:
 Wait for it...
 
-WOMEN:
+ENSEMBLE-WOMEN:
 Wait for it...
 
-MEN:
+ENSEMBLE-MEN:
 Wait for it...
 
-WOMEN:
+ENSEMBLE-WOMEN:
 Wait for it...
 
-MEN:
+ENSEMBLE-MEN:
 Wait for it...
 
-WOMEN:
+ENSEMBLE-WOMEN:
 Wait for it...
 
-MEN:
+ENSEMBLE-MEN:
 Wait...

@@ -91,7 +91,7 @@ Hamilton!
 WASHINGTON:
 I need my right hand man back!
 
-WOMEN:
+ENSEMBLE-WOMEN:
 Hamilton!
 
 LAFAYETTE:                                                       
@@ -103,14 +103,14 @@ some thought into the letter
 but the sooner the better                                     
 To get your right hand man back!
 
-MEN:
+ENSEMBLE-MEN:
 Get your right hand man back!
 Your right hand man back!
 Hamilton!
 Ha—
 Ha—
 
-WOMEN, MEN:
+ENSEMBLE:
 Hamilton, Hamilton!
 Ha— ha—!
 

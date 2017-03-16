@@ -1,14 +1,14 @@
 ####Right Hand Man####
 
-[COMPANY]
+ENSEMBLE:
 British Admiral Howe’s got troops on the water
 Thirty-two thousand troops in New York harbor
 
-[ENSEMBLE 1]
+ENSEMBLE:
 Thirty-two thousand troops in                     
 New York harbor
 
-[ENSEMBLE 2]
+ENSEMBLE:
 Thirty-two thousand troops in                     
 New York harbor 
 
@@ -19,63 +19,63 @@ When they surround our troops!
 They surround our troops!
 They surround our troops!
 
-[HAMILTON]
+HAMILTON:
 As a kid in the Caribbean I wished for a war
 I knew that I was poor
 I knew it was the only way to—
 
-[HAMILTON/BURR/MULLIGAN/LAURENS/LAFAYETTE]
+HAMILTON/BURR/MULLIGAN/LAURENS/LAFAYETTE:
 Rise up!
 
-[HAMILTON]
+HAMILTON:
 If they tell my story
 I am either gonna die on the battlefield in glory or—
 
-[HAMILTON/BURR/MULLIGAN/LAURENS/LAFAYETTE]
+HAMILTON/BURR/MULLIGAN/LAURENS/LAFAYETTE:
 Rise up!
 
-[HAMILTON]
+HAMILTON:
 We will fight for this land
 But there’s only one man
 Who can give us a command so we can—
 
-[HAMILTON/BURR/MULLIGAN/LAURENS/LAFAYETTE]
+HAMILTON/BURR/MULLIGAN/LAURENS/LAFAYETTE:
 Rise up!
 
-[HAMILTON]
+HAMILTON:
 Understand? It’s the only way to—
 
-[HAMILTON/BURR/MULLIGAN/LAURENS/LAFAYETTE]
+HAMILTON/BURR/MULLIGAN/LAURENS/LAFAYETTE:
 Rise up! Rise up!
 
-[HAMILTON]
+HAMILTON:
 Here he comes!
 
-[ENSEMBLE]
+ENSEMBLE:
 Here comes the General!
 
-[BURR]
+BURR:
 Ladies and gentlemen!
 
-[ENSEMBLE]
+ENSEMBLE:
 Here comes the General!
 
-[BURR]
+BURR:
 The moment you’ve been waiting for!
 
-[ENSEMBLE]
+ENSEMBLE:
 Here comes the General!
 
-[BURR]
+BURR:
 The pride of Mount Vernon!
 
-[ENSEMBLE]
+ENSEMBLE:
 Here comes the General!
 
-[BURR]
+BURR:
 George Washington!
 
-[WASHINGTON]
+WASHINGTON:
 We are outgunned                             
 Outmanned                                                   
 Outnumbered
@@ -90,7 +90,7 @@ What?
 Buck, buck, buck, buck, buck!
 Buck, buck, buck, buck, buck!
 
-[WASHINGTON]
+WASHINGTON:
 Check it—
 Can I be real a second?
 For just a millisecond?
@@ -103,17 +103,17 @@ Embellishin’ my elegance and eloquence
 But the elephant is in the room
 The truth is in ya face when ya hear the British cannons go…
 
-[ENSEMBLE]
+ENSEMBLE:
 Boom!
 
-[WASHINGTON]
+WASHINGTON:
 Any hope of success is fleeting
 How can I keep leading when the people I’m
 Leading keep retreating?
 We put a stop to the bleeding as the British take Brooklyn
 Knight takes rook, but look
 
-[WASHINGTON]
+WASHINGTON:
 We are outgunned                             
 Outmanned                                                   
 Outnumbered
@@ -129,80 +129,80 @@ What?
 Buck, buck, buck, buck, buck!
 Buck, buck, buck, buck, buck!
 
-[HAMILTON]
+HAMILTON:
 They’re battering down the Battery check the damages
 
-[MULLIGAN]
+MULLIGAN:
 Rah!
 
-[HAMILTON]
+HAMILTON:
 We gotta stop ‘em and rob ‘em of their advantages
 
-[MULLIGAN]
+MULLIGAN:
 Rah!
 
-[HAMILTON]
+HAMILTON:
 Let’s take a stand with the stamina God has granted us
 Hamilton won’t abandon ship
 Yo, let’s steal their cannons—
 
-[MULLIGAN]                                            
+MULLIGAN:                                            
 Shh-boom!    
                                          
-[COMPANY]
+COMPANY:
 Boom!      
 
 
-[WASHINGTON]
+WASHINGTON:
 Goes the cannon, watch the blood and the shit spray and…
 
-[COMPANY]
+COMPANY:
 Boom!
 
-[WASHINGTON]
+WASHINGTON:
 Goes the cannon, we’re abandonin’ Kips Bay and…
 
-[COMPANY]
+COMPANY:
 Boom!
 
-[WASHINGTON]
+WASHINGTON:
 There’s another ship and…
 
-[COMPANY]
+COMPANY:
 Boom!
 
-[WASHINGTON]
+WASHINGTON:
 We just lost the southern tip and…
 
-[COMPANY]
+COMPANY:
 Boom!
 
-[WASHINGTON]
+WASHINGTON:
 We gotta run to Harlem quick, we can’t afford another slip
 Guns and horses giddyup
 I decide to divvy up
 My forces, they’re skittish as the British cut the city up
 This close to giving up, facing mad scrutiny
-I scream in the face of this mass mutiny:
+I scream in the face of this mass mutiny
 Are these the men with which I am to defend America?
 We ride at midnight, Manhattan in the distance
 I cannot be everywhere at once, people
 I’m in dire need of assistance…
 
-[BURR]
+BURR:
 Your excellency, sir!
 
-[WASHINGTON]
+WASHINGTON:
 Who are you?
 
-[BURR]
+BURR:
 Aaron Burr, Sir?
 Permission to state my case?
 
-[WASHINGTON]
+WASHINGTON:
 As you were
 
-[BURR]
+BURR:
 Sir
 I was a captain under General Montgomery
 Until he caught a bullet in the neck in Quebec
@@ -211,123 +211,123 @@ I think that I could be of some assistance
 I admire how you keep firing on the British
 From a distance
 
-[WASHINGTON]
+WASHINGTON:
 Huh
 
-[BURR]
+BURR:
 I have some questions, a couple of suggestions 
 on how to fight instead of fleeing west
 
-[WASHINGTON]
+WASHINGTON:
 Yes?
 
-[BURR]
+BURR:
 Well—
 
-[HAMILTON]
+HAMILTON:
 Your excellency, you wanted to see me?
 
-[WASHINGTON]
+WASHINGTON:
 Hamilton, come in, have you met Burr?
 
-[HAMILTON]
+HAMILTON:
 Yes, sir
 
-[HAMILTON AND BURR]
+HAMILTON AND BURR:
 We keep meeting
 
-[BURR]
+BURR:
 As I was saying, sir, I look forward to seeing your strategy play out
 
-[WASHINGTON]
+WASHINGTON:
 Burr?
 
-[BURR]
+BURR:
 Sir?
 
-[WASHINGTON]
+WASHINGTON:
 Close the door on your way out
 
-[HAMILTON]
+HAMILTON:
 Have I done something wrong, sir?
 
-[WASHINGTON]
+WASHINGTON:
 On the contrary
 I called you here because our odds are beyond scary
 Your reputation precedes you, but I have to laugh
 
-[HAMILTON]
+HAMILTON:
 Sir?
 
-[WASHINGTON]
+WASHINGTON:
 Hamilton, how come no one can get you on their staff?
 
-[HAMILTON]
+HAMILTON:
 Sir!
 
-[WASHINGTON]
+WASHINGTON:
 Don’t get me wrong, you’re a young man, of great renown
 I know you stole British cannons when we were still downtown
 Nathanael Greene and Henry Knox wanted to hire you...
 
-[HAMILTON]
+HAMILTON:
 To be their Secretary? I don’t think so
 
-[WASHINGTON]
+WASHINGTON:
 Why’re you upset?
 
-[HAMILTON]
+HAMILTON:
 I’m not—
 
-[WASHINGTON]
+WASHINGTON:
 It’s alright, you want to fight, you’ve got a hunger
 I was just like you when I was younger
 Head full of fantasies of dyin’ like a martyr?
 
-[HAMILTON]
+HAMILTON:
 Yes
 
-[WASHINGTON]
+WASHINGTON:
 Dying is easy, young man. Living is harder
 
-[HAMILTON]
+HAMILTON:
 Why are you telling me this?
 
-[WASHINGTON]
+WASHINGTON:
 I’m being honest
 I’m working with a third of what our Congress has promised
 We are a powder keg about to explode
 I need someone like you to lighten the load. So?
 
-[COMPANY (EXCEPT HAMILTON)]
+ENSEMBLE:
 I am not throwin’ away my shot!
 I am not throwin’ away my shot!
 Ayo, I’m just like my country, I’m young
 Scrappy and hungry!
 
-[HAMILTON]
+HAMILTON:
 I am not throwing away my shot!
 
-[WASHINGTON]
+WASHINGTON:
 Son
 
-[WASHINGON AND COMPANY]
+WASHINGON AND ENSEMBLE:
 We are outgunned, outmanned!
 
-[HAMILTON]
+HAMILTON:
 You need all the help you can get
 I have some friends. Laurens, Mulligan
 Marquis de Lafayette, okay, what else?
 
-[WASHINGTON AND COMPANY]
+WASHINGTON AND ENSEMBLE:
 Outnumbered, outplanned!
 
-[HAMILTON]
+HAMILTON:
 We’ll need some spies on the inside
 Some King’s men who might let some things slide
 
 
-[HAMILTON]                  
+HAMILTON:                  
 I’ll write to Congress     
 and tell ‘em we need                        
 supplies, you rally
@@ -340,50 +340,50 @@ your information, ‘til
 we rise to the occasion                    
 of our new nation. Sir!                        
 
-[COMPANY] 
+ENSEMBLE: 
 Boom!
 
-[ELIZA/ANGELICA/PEGGY]
+ELIZA/ANGELICA/PEGGY:
 Whoa, whoa, whoa...
 Whoa, whoa, whoa...
 Whoa, whoa, whoa...
 
-[ENSEMBLE]                                   
+ENSEMBLE:                                   
 Here comes the General!
                   
-[LAURENS/LAFAYETTE/MULLIGAN]
+LAURENS/LAFAYETTE/MULLIGAN:
 What?
 
-[HAMILTON]
+HAMILTON:
 Rise up!
 
-[ENSEMBLE]     
+ENSEMBLE:     
 Here comes     
 the General!
 
-[LAURENS/LAFAYETTE/MULLIGAN]
+LAURENS/LAFAYETTE/MULLIGAN:
 What?
 
-[HAMILTON]        
+HAMILTON:        
 Rise up!              
 
-[SCHUYLER SISTERS]
- Rise up!
+ELIZA/ANGELICA/PEGGY:
+Rise up!
  
- [ENSEMBLE]
+ENSEMBLE:
 Here comes the General!
 
-[HAMILTON]               
+HAMILTON:               
 Rise up!
 
-[FULL COMPANY]
+FULL COMPANY:
 Here comes the General!
 
-[HAMILTON]
+HAMILTON:
 What?
 
-[WASHINGTON]
+WASHINGTON:
 And his right hand man!
 
-[FULL COMPANY]
+FULL COMPANY:
 Boom!

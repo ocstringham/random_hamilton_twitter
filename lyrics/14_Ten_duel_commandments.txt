@@ -1,6 +1,6 @@
 #### ten duel commandments ####
 
-MEN:
+ENSEMBLE-MEN:
 One, two, three, four
 
 FULL COMPANY:
@@ -112,7 +112,7 @@ Look ‘em in the eye, aim no higher
 Summon all the courage you require
 Then count
 
-MEN:
+ENSEMBLE-MEN:
 One two three four
 
 FULL COMPANY:
