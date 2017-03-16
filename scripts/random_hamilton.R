@@ -225,7 +225,7 @@ final_df$singer_clean = final_df$lower_singer_replace %>% stri_trans_general(id 
 all_df = final_df[  , c(1,7,3,4)]
 
 ## save
-saveRDS(hamilton_df, "C:/Users/oliver/Google Drive/fun/random_hamilton_twitter//dfs/all_df.rds")
+saveRDS(all_df, "C:/Users/oliver/Google Drive/fun/random_hamilton_twitter/dfs/all_df.rds")
 
 
 
