@@ -1,7 +1,7 @@
 ####Dear Theodosia####
 
 
-[Burr]
+Burr:
 Dear Theodosia what to say to you
 You have my eyes
 You have your mother's name
@@ -21,7 +21,7 @@ Someday, someday
 Yeah you'll blow us all away
 Someday, someday
 
-[Hamilton]
+Hamilton:
 Oh, Phillip when you smile I am undone, my son
 Look at my son
 Pride is not the word I'm looking for
@@ -32,22 +32,22 @@ When you smile, I fall apart and I thought I was so smart
 
 My father wasn't around
 
-[Burr]
+Burr:
 My father wasn't around
 
-[Hamilton]
+Hamilton:
 I swear that
 
-[Both]
+Hamilton and Burr:
 I'll be around for you
 
-[Hamilton]
+Hamilton:
 I'll do whatever it takes
 
-[Burr]
+Burr:
 I'll make a million mistakes
 
-[Both]
+Hamilton and Burr:
 I'll make the world safe and sound for you
 
 You'll come of age with our young nation
